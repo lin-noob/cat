@@ -1,0 +1,5 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="D:\管子program\BlazorWebForFac\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="D:\管子program\BlazorWebForFac\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="_content/AntDesign" Path="C:\Users\lin\.nuget\packages\antdesign\0.10.2\build\..\staticwebassets\" />
+</StaticWebAssets>
